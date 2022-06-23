@@ -37,7 +37,7 @@
 						</relocation>
 					</relocations>
 
-					<outputFile>C:\Users\unfea\Desktop\Test Servers\Test 1.19\plugins\${project.artifactId}-${project.version}.jar</outputFile>
+					<outputFile>C:\Users\unfea\Desktop\Test Servers\Test 1.12\plugins\${project.artifactId}-${project.version}.jar</outputFile>
 				</configuration>
 			</plugin>
 		</plugins>
@@ -49,7 +49,7 @@
 		<dependency>
 			<groupId>org.spigotmc</groupId>
 			<artifactId>spigot-api</artifactId>
-			<version>1.19-R0.1-SNAPSHOT</version>
+			<version>1.12-R0.1-SNAPSHOT</version>
 			<scope>provided</scope>
 		</dependency>
 		

@@ -6,6 +6,5 @@ prevent-silk: true
 # Be careful though, if the player gets the block without using silktouch when mining it they can continously break and replace the block for infinite experience.
 blocks:
    COAL_ORE: 10
-   DEEPSLATE_COAL_ORE: 15
    DIAMOND_ORE: 23
    STONE: 2
