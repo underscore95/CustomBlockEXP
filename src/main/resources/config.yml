@@ -1,0 +1,11 @@
+
+# If true then won't drop experience if the player uses silk touch
+prevent-silk: true
+
+# You can do more than just ores, for a full list: https://hub.spigotmc.org/javadocs/bukkit/org/bukkit/Material.html
+# Be careful though, if the player gets the block without using silktouch when mining it they can continously break and replace the block for infinite experience.
+blocks:
+   COAL_ORE: 10
+   DEEPSLATE_COAL_ORE: 15
+   DIAMOND_ORE: 23
+   STONE: 2
