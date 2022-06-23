@@ -1,6 +1,6 @@
 main: me.unfear.CustomBlockEXP.CustomBlockEXP
 name: CustomBlockEXP
-version: 0.0.1
+version: 0.0.2
 author: unfear
 commands:
    cbereload:
