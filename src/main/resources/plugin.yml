@@ -2,3 +2,7 @@ main: me.unfear.CustomBlockEXP.CustomBlockEXP
 name: CustomBlockEXP
 version: 0.0.1
 author: unfear
+commands:
+   cbereload:
+      permission: cbe.reload
+      description: Reload config
